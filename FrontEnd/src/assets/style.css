@@ -1,0 +1,9 @@
+h1{
+    text-align: center;
+}
+.form_cadastro{
+    display: flex;
+    flex-direction: column;
+    margin-left: 5%;
+    margin-right: 5%;
+}
